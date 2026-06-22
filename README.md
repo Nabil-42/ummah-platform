@@ -4,12 +4,18 @@
 
 **Plateforme communautaire — Bénévolat · Associations · Gamification**
 
-### [→ Accéder au site : ummah.eu](https://ummah.eu)
+<br/>
 
-[![Site live](https://img.shields.io/badge/Site%20live-ummah.eu-1C130A?style=for-the-badge&logoColor=C49A3C)](https://ummah.eu)
-[![Statut](https://img.shields.io/badge/Statut-Production-16a34a?style=for-the-badge)](https://ummah.eu)
+### [→ Accéder au site](https://ummah-app.duckdns.org/)
+
+<br/>
+
+[![Site live](https://img.shields.io/badge/Site%20live-ummah--app.duckdns.org-1C130A?style=for-the-badge&logoColor=C49A3C)](https://ummah-app.duckdns.org/)
+[![Statut](https://img.shields.io/badge/Statut-Production-16a34a?style=for-the-badge)](https://ummah-app.duckdns.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-100%25-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/Propriété%20intellectuelle-Tous%20droits%20réservés-C49A3C?style=for-the-badge)](./LICENSE)
+
+<br/>
 
 > Ce dépôt est une **présentation portfolio** du projet Ummah.
 > Le code source est privé — propriété intellectuelle de l'auteur.
@@ -307,7 +313,7 @@ La sécurité a été traitée comme une contrainte de conception dès le début
 
 <div align="center">
 
-### [→ Visiter le site : ummah.eu](https://ummah.eu)
+### [→ Visiter le site](https://ummah-app.duckdns.org/)
 
 *© 2026 Nabil Abboud — Tous droits réservés. Reproduction interdite sans autorisation.*
 
