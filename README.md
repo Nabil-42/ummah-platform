@@ -10,9 +10,9 @@
 
 <br/>
 
-[![Site live](https://img.shields.io/badge/Site%20live-ummah--app.duckdns.org-1C130A?style=for-the-badge&logoColor=C49A3C)](https://ummah-app.duckdns.org/)
-[![Statut](https://img.shields.io/badge/Statut-Production-16a34a?style=for-the-badge)](https://ummah-app.duckdns.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-100%25-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Site live](https://img.shields.io/badge/Site%20live-ummah--app.duckdns.org-1C130A?style=for-the-badge&logoColor=C49A3C)](https://ummah.eu/actualites)
+[![Statut](https://img.shields.io/badge/Statut-Production-16a34a?style=for-the-badge)](https://ummah.eu/actualites)
+[![TypeScript](https://img.shields.io/badge/TypeScript-100%25-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://ummah.eu/actualites)
 [![License](https://img.shields.io/badge/Propriété%20intellectuelle-Tous%20droits%20réservés-C49A3C?style=for-the-badge)](./LICENSE)
 
 <br/>
