@@ -18,7 +18,7 @@
 <br/>
 
 > Ce dépôt est une **présentation portfolio** du projet Ummah.
-> Le code source est privé — propriété intellectuelle de l'auteur.
+
 
 </div>
 
