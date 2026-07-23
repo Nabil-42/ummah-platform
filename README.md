@@ -6,11 +6,11 @@
 
 <br/>
 
-### [→ Accéder au site](https://ummah-app.duckdns.org/)
+### [→ Accéder au site](https://ummah.eu/)
 
 <br/>
 
-[![Site live](https://img.shields.io/badge/Site%20live-ummah--app.duckdns.org-1C130A?style=for-the-badge&logoColor=C49A3C)](https://ummah.eu/actualites)
+[![Site live](https://img.shields.io/badge/Site%20live-ummah.eu-1C130A?style=for-the-badge&logoColor=C49A3C)](https://ummah.eu/actualites)
 [![Statut](https://img.shields.io/badge/Statut-Production-16a34a?style=for-the-badge)](https://ummah.eu/actualites)
 [![TypeScript](https://img.shields.io/badge/TypeScript-100%25-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://ummah.eu/actualites)
 [![License](https://img.shields.io/badge/Propriété%20intellectuelle-Tous%20droits%20réservés-C49A3C?style=for-the-badge)](./LICENSE)
@@ -313,7 +313,7 @@ La sécurité a été traitée comme une contrainte de conception dès le début
 
 <div align="center">
 
-### [→ Visiter le site](https://ummah-app.duckdns.org/)
+### [→ Visiter le site](https://ummah.eu/)
 
 *© 2026 Nabil Abboud — Tous droits réservés. Reproduction interdite sans autorisation.*
 
